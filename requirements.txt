@@ -1,0 +1,6 @@
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+tensorflow==2.15.0
+ultralytics==8.1.0
+easyocr==1.7.1
+Pillow==10.2.0
